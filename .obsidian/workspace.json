@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Ai"
             }
+          },
+          {
+            "id": "4af19a80132bc9cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ai.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ai"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,8 +198,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "6d0dacc45a0d89d8",
+  "active": "4af19a80132bc9cf",
   "lastOpenFiles": [
+    "Pasted image 20260208033739.png",
+    "Pasted image 20260207074708.png",
     "Pasted image 20260130230718.png",
     "Ai.md",
     "create a link.md"
